@@ -1,0 +1,24 @@
+{
+  "name": "server-workshop",
+  "version": "1.0.0",
+  "description": "build a server from scratch",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GwennyB/server-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GwennyB/server-workshop/issues"
+  },
+  "homepage": "https://github.com/GwennyB/server-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
